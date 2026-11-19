@@ -1,0 +1,37 @@
+{
+  "objetos": {
+    "producto": [
+      null,
+      {
+        "Caducidad": "07/2028",
+        "nombre": "cocacola",
+        "precio": 20
+      },
+      {
+        "caducidad": "05/2027",
+        "nombre": "Takis",
+        "precio": 22
+      },
+      {
+        "caducidad": "01/2027",
+        "nombre": "leche",
+        "precio": 30
+      },
+      {
+        "caducidad": "04/2029",
+        "nombre": "agua",
+        "precio": 15
+      },
+      {
+        "caducidad": "05/2027",
+        "nombre": "jamon",
+        "precio": 30
+      },
+      {
+        "caducidad": "06/2029",
+        "nombre": "Fuze Tea",
+        "precio": 25
+      }
+    ]
+  }
+}
